@@ -10,7 +10,7 @@ This is a basic Node.js project using Express.js to serve a simple HTML page. Th
    ```
 2. Start the server:
    ```sh
-   npm start
+   npm start sample1.json
    ```
 3. The app will run at http://localhost:3000
 
